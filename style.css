@@ -34,8 +34,20 @@ html,body{
   background-color: royalblue;
 }
 
-#right-bottom{
-  width: 50%;
-  height: 100%;
+/* #right-bottom{
+  width: 100%;
+  height: 50%;
   background-color: chocolate;
+} */
+
+#r-top-left{
+  width: 55%;
+  height: 100%;
+  background-color: rgb(236, 144, 144);
+}
+
+#r-top-right{
+  width: 45%;
+  height: 100%;
+  background-color:green;
 }
