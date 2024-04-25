@@ -17,9 +17,34 @@ html,body{
  }
 
 #left{
+  position: relative;
   width: 40%;
   height: 100%;
  }
+
+#textcenter h1{
+  font-size: 90px;
+  font-weight: 900;
+}
+
+#textcenter p{
+  font-size: 12px;
+  opacity: .6;
+  line-height: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+ 
+}
+
+#textcenter a{
+  text-decoration: none;
+  color: #000;
+  border-bottom: 1px solid #000;
+  padding-bottom: 5px;
+  font-size: 13px;
+  font-weight: 600;
+  opacity: .6;
+}
 
 #lnav{
   display: flex;
@@ -40,6 +65,13 @@ html,body{
  #lnavr i{
   color: royalblue;
 
+ }
+
+ #left #textcenter{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
  }
 
  #lnavr a{
