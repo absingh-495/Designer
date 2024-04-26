@@ -28,8 +28,8 @@ html,body{
 }
 
 #textcenter p{
-  font-size: 12px;
-  opacity: .6;
+  font-size: 15px;
+  /* opacity: .6; */
   line-height: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -77,6 +77,7 @@ html,body{
  #lnavr a{
   margin-right: 20px;
   text-decoration: none;
+  color: #000;
 
  }
 
@@ -102,8 +103,10 @@ html,body{
 #rtopleft{
   width: 55%;
   height: 100%;
-  background-color:red  ;
-}
+  background-image: url(https://images.unsplash.com/photo-1485955900006-10f4d324d411?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: contain;
+  background-position: center;
+ }
 
 #rtopright{
   width: 45%;
