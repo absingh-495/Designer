@@ -106,11 +106,13 @@ html,body{
   background-image: url(https://images.unsplash.com/photo-1485955900006-10f4d324d411?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
   background-size: contain;
   background-position: center;
- }
+}
 
 #rtopright{
   width: 45%;
   height: 100%;
-  background-color:green;
-
+  background-image: url(https://plus.unsplash.com/premium_photo-1674595248180-b4e23617981b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover;
+  background-position:center;
+  background-repeat: no-repeat;
 }
