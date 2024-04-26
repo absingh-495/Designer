@@ -108,6 +108,17 @@ html,body{
   background-position: center;
 }
 
+#rtopleft h1{
+  display: flex;
+  /* margin: auto; */
+  justify-content: center;
+  margin-top: 50%;
+  font-weight: 900;
+  font-size: 50px;
+  z-index: -500;
+ 
+}
+
 #rtopright{
   width: 45%;
   height: 100%;
