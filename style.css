@@ -126,6 +126,8 @@ html,body{
   background-repeat: no-repeat;
 }
 
+/* Responsive */
+
 @media(max-width:500px){
   #main{
     flex-direction: column;
