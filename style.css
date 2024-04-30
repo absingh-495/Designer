@@ -29,11 +29,9 @@ html,body{
 
 #textcenter p{
   font-size: 15px;
-  /* opacity: .6; */
   line-height: 20px;
   margin-top: 20px;
-  margin-bottom: 20px;
- 
+  margin-bottom: 20px; 
 }
 
 #textcenter a{
@@ -51,7 +49,6 @@ html,body{
   justify-content: space-between;
   width: 100%;
   padding: 20px 30px;
-
  }
 
  #lnavr{
@@ -78,7 +75,6 @@ html,body{
   margin-right: 20px;
   text-decoration: none;
   color: #000;
-
  }
 
 #right{
@@ -114,7 +110,6 @@ html,body{
   justify-content: center;
   margin-top: 45%;
   font-size: 4vw;
-  
 }
 
 #rtopright{
